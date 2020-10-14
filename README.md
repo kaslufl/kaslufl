@@ -1,16 +1,11 @@
-### Hi there 👋
+### Hello! 👨‍💻 
+My name is Lucas Leal and I'm a software engenieer student. I'm from Barra do Piraí - RJ - Brazil  
+[![](https://img.shields.io/badge/-twitter-f7f7f7?style=flat&logo=twitter)](https://twitter.com/kaslufl)
+[![](https://img.shields.io/badge/-about.me-f7f7f7?style=flat&logo=about.me)](https://about.me/kaslufl)
 
-<!--
-**kaslufl/kaslufl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/kaslufl/kaslufl">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaslufl&show_icons=true&line_height=27&count_private=true&theme=tokyonight" alt="kaslufl's GitHub Stats" />
+</a><a href="https://github.com/kaslufl/kaslufl">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaslufl&theme=tokyonight&layout=compact" />
+</a>
+ 
